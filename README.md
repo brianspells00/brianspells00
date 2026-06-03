@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory Setup</b>
-  - [Creating and configuring Windows Active directory home lab](https://github.com/brianspells00/Homelabsetup)
+  - [Creating and configuring Windows Active directory home lab](https://github.com/brianspells00/MSHomelabsetup)
 
 <h2>📃Certifications:</h2>
 
