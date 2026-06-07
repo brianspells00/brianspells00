@@ -5,6 +5,8 @@
 
 - <b>Active Directory Setup</b>
   - [Creating and configuring Windows Active directory home lab](https://github.com/brianspells00/MSHomelabsetup)
+- <b>HoneyPot Incident Response</b>
+  - [Creating and configuring a Virtual Honeypot and responding to a security event](https://github.com/brianspells00/HoneyPot-Incident-Response)
 
 <h2>📃Certifications:</h2>
 
