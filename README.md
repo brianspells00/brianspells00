@@ -8,7 +8,7 @@
 - <b>HoneyPot Incident Response</b>
   - [Creating and configuring a Virtual Honeypot and responding to a security event](https://github.com/brianspells00/HoneyPot-Incident-Response)
 - <b>Malware Traffic Analysis</b>
-  - [Analyzing malware traffic in Wireshark](https://github.com/brianspells00/Wireshark-Malware-Traffic-Analysis/blob/main/TrafficAnalysisLab%3AEASYAS123.md)
+  - [Analyzing malware traffic in Wireshark](https://github.com/brianspells00/Wireshark-Malware-Traffic-Analysis/tree/main)
 
 <h2>📃Certifications:</h2>
 
